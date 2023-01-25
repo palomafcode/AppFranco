@@ -23,8 +23,8 @@ h2 {
 }
 
 .avatar {
-    width: 323px;
-    height: 368px;
+    width: 280px;
+    height: 300px;
     
     position: relative;
     cursor: pointer;
@@ -73,7 +73,7 @@ h2 {
 }
 
 .css {
-    width: 23%;
+    width: 25%;
     bottom: 0;
     left: 300px;
     border-radius: 14px;

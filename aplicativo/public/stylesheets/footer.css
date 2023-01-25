@@ -55,13 +55,18 @@
     cursor: pointer;
     transition: 0.7s;
 }
-
+.links2>a>img {
+    width: 100%;
+    height: 80%;
+    border-radius: 7px;
+   
+}
 .links:hover {
     transform: rotate(-360deg);
 }
 
 .links1 {
-    background-image: url(../img/githubff2.svg);
+    background-image: url(images/GitHub.jpg);
 }
 
 .links2 {
