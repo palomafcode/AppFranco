@@ -163,7 +163,7 @@ img {
 @media (max-width:1200px) {
     
     #inicio{
-        background: #352728;
+        background: #54113b;
         height: auto;
     }
 
@@ -302,7 +302,7 @@ img {
         z-index: 2;
         top: 2rem;
         right: 2rem;
-        background: #792e33;
+        background: #54113b;
         color: white;
         font-size: 3rem;
         line-height:3rem;
